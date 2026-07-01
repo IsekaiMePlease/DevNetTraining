@@ -14,3 +14,5 @@ def calculate_sum(values: list[int]) -> int:
 if __name__ == "__main__":
     print(greet_user("Developer"))
     print("Sum of [1, 2, 3, 4] is", calculate_sum([1, 2, 3, 4]))
+    print ("This is here just to test the feature branch")
+    
